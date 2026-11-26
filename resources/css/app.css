@@ -1,0 +1,18 @@
+body {
+  font-family: 'Inter', sans-serif;
+  color: #333;
+  background-color: #f8fafc;
+}
+
+.container,
+.container-fluid {
+  max-width: 100% !important;
+  width: 100% !important;
+  padding-left: 4vw !important;
+  padding-right: 4vw !important;
+}
+
+.navbar-brand img {
+  height: 45px !important;
+  width: auto !important;
+}
